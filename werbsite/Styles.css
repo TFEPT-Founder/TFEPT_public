@@ -1,0 +1,134 @@
+.center {
+    margin-top: 5rem;
+    text-align: center;
+    font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+    font-weight: 100;
+    width: 100%;
+}
+
+.Justen {
+    margin-left: 5rem;
+    outline-color: black;
+    outline-width: 3px;
+    outline-style: solid;
+    margin-top: 6rem;
+}
+
+
+.Paragraph_thing {
+    margin-left: 5rem;
+    outline-style: dashed;
+    margin-top: 7rem;
+    padding: 1rem;
+    background-image: linear-gradient(to bottom right, #20bf55,  #01baef);
+    margin-left: auto;
+    margin-right: auto;
+    width: 118rem;
+    height: auto;
+    height: 12rem;
+    font-size: 35px;
+    margin-bottom: 50rem;
+}
+
+.header_thing {
+    font-size: 55px;
+    font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+    font-weight: 200;
+    text-align: center;
+}
+
+.card-body {
+    background-image: linear-gradient(to bottom right, #01baef, #20bf55);
+}
+
+.thingyy {
+    justify-content: li;
+}
+.About {
+    width: 20rem;
+    margin-left: 1rem;
+    background-image: linear-gradient(to bottom right, #01baef, #20bf55);
+    text-align: center;
+    margin-bottom: 50rem;
+}
+
+.Us {
+    font-size: 40px;
+}
+
+.center_2 {
+    margin-top: 5rem;
+    text-align: center;
+    font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+    font-weight: 100;
+    width: 100%;
+    vertical-align: top;
+    margin-bottom: 5rem;
+}
+
+.filler {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+ body
+  {
+     background-color: #28a745;
+ }
+
+ .banner {
+    border-bottom: black;
+    border-bottom: double black;
+    border-width: 13px;
+ }
+
+ .fade-in-section {
+    -webkit-transition: opacity 200ms ease-in-out;
+    -ms-transition: opacity 200ms ease-in-out;
+    -moz-transition: opacity 200ms ease-in-out;
+    -o-transition: opacity 200ms ease-in-out;
+    transition: opacity 200ms ease-in-out;
+    position: relative;
+    margin-top: 20px;
+    clear: both;
+}
+
+.Contact_us {
+  height: 200px;
+background-color: gray;
+}
+
+.Contact_text {
+font-size: 30px;
+
+margin-left: none;
+padding-left: none;
+}
+.Image_thingy {
+    width: 3rem;
+    height: 3rem;
+    float: left;
+    display: inline;
+margin-left: none;
+}
+.Email {
+    margin-top: 1rem;
+    margin-left: 4rem;
+}
+.email_pic {
+    display: inline;
+}
+
+.middle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+hr {
+    margin: auto;
+    width: 40%;
+    height: auto;
+  }
